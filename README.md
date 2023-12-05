@@ -99,10 +99,6 @@ Setup database:
 
 Update [config/database.yml](./config/database.yml) username and password
 
-OR
-
-Create a user (provide the username and password described in [config/database.yml](./config/database.yml)):
-> sudo -u postgres createuser --interactive --pwprompt
 
 ### Install
 
